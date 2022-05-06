@@ -1,0 +1,17 @@
+a{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.active{
+  color: black !important;
+}
+
+a:hover{
+  color:red;
+}
+
+nav{
+  border-bottom: 2px solid black;
+}
